@@ -5,7 +5,7 @@ SIMPLE ATTENDANCE RECORD SYSTEM IN PHP
 Username : admin
 Password : admin
 
-**Developed By Mark Arvin Arandilla**
+**Developed By Mahesh Satish Tiwari**
 
 DON'T FORGET TO CREATE A DATABASE NAMING "db_sars" AND IMPORT THE DATBASE SQL FILE.
 WITHOUT THE DATABASE THE PROJECT WON'T RUN.
@@ -18,7 +18,8 @@ WITHOUT THE DATABASE THE PROJECT WON'T RUN.
 ***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
 
 
-***** FOR MORE PROJECTS :- https://code-projects.org/ *****
 
 
-#THANK YOU FOR DOWNLOADING
+
+#Have a Look on to the Project #
+#THANK YOU GUYS!!
